@@ -14,95 +14,179 @@ Change keymaps using `<leader>km` (for **k**ey**m**ap) + _language code_, e.g. `
 
 ### German keymaps
 ae ä
+
 oe ö
+
 ue ü
+
 sz ß
+
 Ae Ä
+
 Oe Ö
+
 Ue Ü
+
 Sz ẞ
 
 ### Spanish keymaps
 ny ñ
+
 Ny Ñ
+
 'a á
+
 'e é
+
 'i í
+
 'o ó
+
 'u ú
+
 'A Á
+
 'E É
+
 'I Í
+
 'O Ó
+
 'U Ú
 
 ### French keymaps
 'a á
-'e é
-'i í
-'o ó
-'u ú
-'A Á
-'E É
-'I Í
-'O Ó
-'U Ú
-a' à
-e' è
-i' ì
-o' ò
-u' ù
-A' À
-E' È
-I' Ì
-O' Ò
-U' Ù
-a^ â
-e^ ê
-i^ î
-o^ ô
-u^ û
-A^ Â
-E^ Ê
-I^ Î
-O^ Ô
-U^ Û
-^a â
-^e ê
-^i î
-^o ô
-^u û
-^A Â
-^E Ê
-^I Î
-^O Ô
-^U Û
-a: ä
-e: ë
-i: ï
-o: ö
-u: ü
-A: Ä
-E: Ë
-I: Ï
-O: Ö
-U: Ü
-:a ä
-:e ë
-:i ï
-:o ö
-:u ü
-:A Ä
-:E Ë
-:I Ï
-:O Ö
-:U Ü
-AE Æ
-ae æ
-OE Œ
-oe œ
-c; ç
-C; Ç
-;c ç
-;C Ç
 
+'e é
+
+'i í
+
+'o ó
+
+'u ú
+
+'A Á
+
+'E É
+
+'I Í
+
+'O Ó
+
+'U Ú
+
+a' à
+
+e' è
+
+i' ì
+
+o' ò
+
+u' ù
+
+A' À
+
+E' È
+
+I' Ì
+
+O' Ò
+
+U' Ù
+
+a^ â
+
+e^ ê
+
+i^ î
+
+o^ ô
+
+u^ û
+
+A^ Â
+
+E^ Ê
+
+I^ Î
+
+O^ Ô
+
+U^ Û
+
+^a â
+
+^e ê
+
+^i î
+
+^o ô
+
+^u û
+
+^A Â
+
+^E Ê
+
+^I Î
+
+^O Ô
+
+^U Û
+
+a: ä
+
+e: ë
+
+i: ï
+
+o: ö
+
+u: ü
+
+A: Ä
+
+E: Ë
+
+I: Ï
+
+O: Ö
+
+U: Ü
+
+:a ä
+
+:e ë
+
+:i ï
+
+:o ö
+
+:u ü
+
+:A Ä
+
+:E Ë
+
+:I Ï
+
+:O Ö
+
+:U Ü
+
+AE Æ
+
+ae æ
+
+OE Œ
+
+oe œ
+
+c; ç
+
+C; Ç
+
+;c ç
+
+;C Ç
