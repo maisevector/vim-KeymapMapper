@@ -26,5 +26,3 @@ endfunction
 function! s:ResetKeymap()
     execute ":set keymap="
 endfunction
-
-
