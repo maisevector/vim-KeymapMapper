@@ -8,9 +8,9 @@ Switching keyboards is usually annoying. Vim's default leader `\` is easily reac
 When writing in German, I find it useful to just type `ae` to get an `ä` for umlauts and `sz` for ß, etc. This is only my preference though, so feel free to change them to whatever you prefer.
 
 ## Usage 
-add the line `let g:keymapmapper_key = '\'` or `let g:keymapmapper_key = '<leader>'` (or whichever key you prefer) to your vimrc:
-Change keymaps using `<leader>km` (for **k**ey**m**ap) + _language code_, e.g. `<leader>kmde` for German or `<leader>kmes` for Spanish.
-To reset the keymaps, use `<leader>kmr` or use the `us`, `uk`, or `en` language code. 
+Add the line `let g:keymapmapper_key = '\'` or `let g:keymapmapper_key = '<leader>'` (or whichever key you prefer) to your vimrc: 
+
+Change keymaps using `<leader>km` (for **k**ey**m**ap) + _language code_, e.g. `<leader>kmde` for German or `<leader>kmes` for Spanish. To reset the keymaps, use `<leader>kmr` or use the `us`, `uk`, or `en` language code. 
 
 ### German keymaps
 ae ä
